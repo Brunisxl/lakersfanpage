@@ -1,0 +1,12 @@
+img {
+    max-width: 100%;
+}
+
+.imgp {
+    width: 700px;
+    margin-top: -340px;
+    position: relative;
+    float: right;
+    margin-left: 500px;
+    max-width: 100%;
+}
